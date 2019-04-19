@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "672560419368",
+    "firebase_url": "https://egitimveritabani-ff7bb.firebaseio.com",
+    "project_id": "egitimveritabani-ff7bb",
+    "storage_bucket": "egitimveritabani-ff7bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672560419368:android:8c61478cb09b2d54",
+        "android_client_info": {
+          "package_name": "com.info.yemektarifiuygulamas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672560419368-vn9s3cle82ddmacig23dc8r1rrerd6m9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.info.yemektarifiuygulamas",
+            "certificate_hash": "9c4605e31eae0a0c29dc8629742697a880d067df"
+          }
+        },
+        {
+          "client_id": "672560419368-ipq8aqnhc8ghcr44msa2bnud9rm21vf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqmkMAFtSUcEsQLVW3-DqVDU8wjycqd_U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672560419368-ipq8aqnhc8ghcr44msa2bnud9rm21vf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
